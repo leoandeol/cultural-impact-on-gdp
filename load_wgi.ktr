@@ -8857,7 +8857,7 @@
       </sheet>
     </sheets>
     <strict_types>N</strict_types>
-    <error_ignored>N</error_ignored>
+    <error_ignored>Y</error_ignored>
     <error_line_skipped>N</error_line_skipped>
     <bad_line_files_destination_directory/>
     <bad_line_files_extension>warning</bad_line_files_extension>
